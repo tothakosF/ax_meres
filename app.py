@@ -78,6 +78,6 @@ while True:
 
     submitbutton.click()
 
-    time.sleep(2)
+    time.sleep(4)
 
     driver.close()
